@@ -26,10 +26,7 @@
             <AppenderRef ref="appLog" />
             <AppenderRef ref="Console" />
         </Logger>
-        <Logger name="com.calient.topm.core" additivity="false" level="debug">
-            <AppenderRef ref="appPollerLog"/>
-
-        </Logger>
+  
 
         <Root level="info">
             <AppenderRef ref="Console" />
