@@ -1,6 +1,6 @@
-### Starter Project for Spring MVC Project
+## Starter Project for Spring MVC Project
 
-## Following componentrs are configured and implemented 
+### Following componentrs are configured and implemented 
 
  Mongo DB<br/>
  Spring Security - JWT Token Based authentication along with role. <br/>
