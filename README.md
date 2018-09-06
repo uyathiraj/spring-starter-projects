@@ -7,3 +7,4 @@
  Spring Exception handling.<br/>
  JUnit test cases using mock data base.<br/>
  Swagger API documentation.<br/>
+ Log4j for logging <br/>
